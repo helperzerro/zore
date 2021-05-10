@@ -3,5 +3,6 @@ Rencana HelperZerro:
 - Bootstrap, belajar bootstrap
 view
 laravel
+js
 - PHP
 python
