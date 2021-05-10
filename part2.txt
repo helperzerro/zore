@@ -1,4 +1,4 @@
 Rencana HelperZerro:
-- JS
-- Bootstrap
+- JS, belajar js
+- Bootstrap, belajar bootstrap
 - PHP
