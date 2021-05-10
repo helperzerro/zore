@@ -1,0 +1,4 @@
+Rencana HelperZerro:
+- JS, belajar js
+- Bootstrap, belajar bootstrap
+- PHP
