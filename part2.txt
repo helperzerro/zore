@@ -1,4 +1,7 @@
 Rencana HelperZerro:
 - JS, belajar js
 - Bootstrap, belajar bootstrap
+view
+laravel
 - PHP
+python
